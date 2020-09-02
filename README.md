@@ -10,4 +10,4 @@ Ein neuer Absatz direkt in GitHub geschrieben. Zusätzliche kleine, etwas größ
 
 Ein zweiter neuer Absatz, den wir bei uns lokal schreiben.
 
-Änderung am Ende der Datei, die nicht schwierig sein sollte.
+Änderung, die Konflikt erzeugen soll.
