@@ -22,4 +22,4 @@ Langsam schweben sie zu Boden.
 Wer sie sieht, versteht die Botschaft:
 Winter kommt bald.
 
-Kollaboration ist vorgestellt.
+Kollaboration ist vorgestellt. Jetzt aber in echt.
