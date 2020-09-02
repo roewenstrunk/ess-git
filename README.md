@@ -1,12 +1,10 @@
+
 # Genialer Titel 2
+# KGParl SJ Test
 
-Heute lernen wir etwas über Git und über GitHub.
+# ess-git dies ist die readmed von Sonja
 
-Ein neuer Absatz direkt in GitHub geschrieben. Zusätzliche kleine, etwas größere Veränderung.
-
-Ein zweiter neuer Absatz, den wir bei uns lokal schreiben.
-
-Ein neuer Absatz direkt in GitHub geschrieben. Zusätzliche kleine, _KONFLIKT_ etwas größere Veränderung. Und weitere conflicts zu erwarten.
+# ess-git-neu
 
 Ein zweiter neuer Absatz, den wir bei uns lokal schreiben.
 
