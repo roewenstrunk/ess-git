@@ -8,3 +8,10 @@ Ein neuer Absatz direkt in GitHub geschrieben. Zusätzliche kleine, etwas größ
 Ein zweiter neuer Absatz, den wir bei uns lokal schreiben.
 
 Änderung am Ende der Datei, die nicht schwierig sein sollte.
+
+Hier kommt ein Gedicht:
+
+Die Bäume senden Luftpostbriefe.
+Langsam schweben sie zu Boden.
+Wer sie sieht, versteht die Botschaft:
+Winter kommt bald.
