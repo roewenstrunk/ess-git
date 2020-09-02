@@ -17,6 +17,11 @@ Ein neuer Absatz direkt in GitHub geschrieben. Zusätzliche Veränderung. Sonjas
 
 Ein zweiter neuer Absatz, den wir bei uns lokal schreiben.
 
+
+Ein dritter Absatz.
+
 Änderung am Ende der Datei, die nicht schwierig sein sollte.
 
+
 Am Ende der Datei eine weitere Zeile eingetragen
+
