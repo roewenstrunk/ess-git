@@ -1,33 +1,10 @@
 
-# Konfliktiver Test
+# Einführung in die Versionsverwaltung mit Git (ESS 2020)
 
-# Genialer Titel 2
+Kenntnisse zum Forschungsdatenmanagement sind mittlerweile für jeden Forschenden von essentieller Bedeutung. Die Verwaltung von Forschungsdaten mit einem Versionskontrollsystem wie zum Beispiel git spielt dabei eine zentrale Rolle. Sie erlaubt nicht nur das koordinierte, kollaborative Arbeiten im Team, auch für den Einzelnen bietet z.B. die Bearbeitungshistorie einen deutlichen Vorteil. Nicht zuletzt können Forschungsergebnisse auf einer Online-Plattform wie GitHub nachnutzenden Wissenschaftlern zur Verfügung oder der Öffentlichkeit zugänglich gemacht werden. Im Rahmen des Kurses werden anhand eines kleinen Praxisbeispiels die Grundfunktionalitäten von git erklärt und eigenständig nachempfunden. Sie lernen wie sie ein Repository anlegen, das Repository nach dem GitFlow-Modell strukturieren, Modifikationen an den Daten einspielen und Konflikte lösen können.
 
-# KGParl SJ Test
+Links:
 
-# ess-git Change RW
-
-Heute lernen wir etwas über Git und über GitHub.
-Das wollen wir alles festhalten.
-
-
-
-Ein neuer Absatz direkt in GitHub geschrieben. Zusätzliche klitzekleine, _KONFLIKT_ etwas größere Veränderung.
-
-
-Ein zweiter neuer Absatz, den wir bei uns lokal schreiben.
-
-Änderung, die Konflikt erzeugen soll.
-
-Ein vierter, verbesserter Absatz.
-
-Änderung am Ende der Datei, die nicht schwierig sein sollte.
-
-Hier kommt ein Gedicht:
-
-Die Bäume senden Luftpostbriefe.
-Langsam schweben sie zu Boden.
-Wer sie sieht, versteht die Botschaft:
-Winter kommt bald.
-
-Kollaboration ist vorgestellt. Jetzt aber in echt.
+Git: https://git-scm.com
+Git Pro Buch: https://git-scm.com/book/de/v2
+Software Carpentry "Version Control with Git": https://swcarpentry.github.io/git-novice/
