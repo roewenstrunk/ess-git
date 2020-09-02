@@ -1,4 +1,4 @@
-# ess-git
+# ess-git-titelzwei
 
 Heute lernen wir etwas über Git und über GitHub.
 Das wollen wir alles festhalten.
