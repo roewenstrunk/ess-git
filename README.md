@@ -11,10 +11,7 @@ Ein zweiter neuer Absatz, den wir bei uns lokal schreiben.
 
 Änderung, die Konflikt erzeugen soll.
 
-
-
 Ein vierter, verbesserter Absatz.
-
 
 Änderung am Ende der Datei, die nicht schwierig sein sollte.
 
