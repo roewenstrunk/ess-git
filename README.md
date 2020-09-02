@@ -21,3 +21,5 @@ Die Bäume senden Luftpostbriefe.
 Langsam schweben sie zu Boden.
 Wer sie sieht, versteht die Botschaft:
 Winter kommt bald.
+
+Kollaboration ist vorgestellt.
