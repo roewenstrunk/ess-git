@@ -1,4 +1,4 @@
-# ess-git
+# ess-git2020
 
 Heute lernen wir etwas über Git und über GitHub.
 Das wollen wir alles festhalten.
