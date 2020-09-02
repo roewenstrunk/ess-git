@@ -1,3 +1,4 @@
+
 # ess-git dies ist die readmed von Sonja
 
 
@@ -17,13 +18,20 @@ Ein neuer Absatz direkt in GitHub geschrieben. Zusätzliche Veränderung. Sonjas
 
 
 
+# Genialer Titel 2
+
+
+# ess-git dies ist die readmed von Sonja
+
+# ess-git-neu
 
 Ein zweiter neuer Absatz, den wir bei uns lokal schreiben.
 
-
-
 Änderung, die Konflikt erzeugen soll.
 
+
+
+Ein vierter, verbesserter Absatz.
 
 
 Änderung am Ende der Datei, die nicht schwierig sein sollte.
