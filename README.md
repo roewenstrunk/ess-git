@@ -1,4 +1,4 @@
-# ess-git
+# ess-git dies ist die readmed von Sonja
 
 Heute lernen wir etwas über Git und über GitHub.
 Das wollen wir alles festhalten.
