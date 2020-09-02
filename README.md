@@ -8,3 +8,5 @@ Links:
 Git: https://git-scm.com  
 Git Pro Buch: https://git-scm.com/book/de/v2  
 Software Carpentry "Version Control with Git": https://swcarpentry.github.io/git-novice/  
+
+Änderung aus dem default-Branch, der eigentlich develop heißen sollte.
